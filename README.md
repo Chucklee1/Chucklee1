@@ -1,16 +1,15 @@
 # Hi 😃
- <br />
-├── **OS 🐧** -> NixOS (btw) 
-├── **Desktop 🖥️** -> Niri (YaLTeR/niri)
-├── **Editor 📓** -> Nixvim (nix-ified neovim, nix-community/nixvim)
-├── **Dog 🐶** -> A very handsome Boston Terrier
-|
-├── Strongsuits 🦾
-│   ├── latex
-│   ├── nix
-│   └── bash scripting
-|
-└── Learning ඞ
-    ├── C
-    ├── lua
-    └── GAS x86_64 assembly
+├── **OS 🐧** -> NixOS (btw) <br />
+├── **Desktop 🖥️** -> Niri (YaLTeR/niri) <br />
+├── **Editor 📓** -> Nixvim (nix-ified neovim, nix-community/nixvim) <br />
+├── **Dog 🐶** -> A very handsome Boston Terrier <br /> 
+| <br />
+├── Strongsuits 🦾 <br />
+│   ├── latex <br />
+│   ├── nix <br />
+│   └── bash scripting <br />
+| <br />
+└── Learning ඞ <br />
+    ├── C <br />
+    ├── lua <br />
+    └── GAS x86_64 assembly <br />
