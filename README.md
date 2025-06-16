@@ -1,6 +1,6 @@
 ## Hi 😃
-**OS 🐧** NixOS (btw)
-**Desktop 🖥️** Niri Window Manager (YaLTeR/niri)
+**OS 🐧** NixOS (btw) \n
+**Desktop 🖥️** Niri Window Manager (YaLTeR/niri) \\
 **Editor 📓** Nixvim (nix-ified neovim, nix-community/nixvim)
 **Dog 🐶** A very handsome Boston Terrier
 
