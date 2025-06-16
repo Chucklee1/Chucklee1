@@ -1,5 +1,5 @@
 # Hi 😃
-```md
+```markdown
 ├── **OS 🐧** -> NixOS (btw) 
 ├── **Desktop 🖥️** -> Niri (YaLTeR/niri)
 ├── **Editor 📓** -> Nixvim (nix-ified neovim, nix-community/nixvim)
