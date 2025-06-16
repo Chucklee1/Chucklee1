@@ -1,16 +1,15 @@
-## Hi there 👋
+## Specs
+- OS: NixOS
+- Desktop: Niri Window Manager (YaLTeR/niri)
+- editor: Nixvim (nix-ified neovim, nix-community/nixvim)
+- Dog: A very handsome Boston Terrier
 
-<!--
-**Chucklee1/Chucklee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mainly work with:
+- latex
+- nix
+- bash scripting
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Newbie at:
+- C/C++
+- lua
+- GAS x86_64 assembly
