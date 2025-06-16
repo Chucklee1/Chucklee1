@@ -1,4 +1,5 @@
-#Hi 😃
+# Hi 😃
+```md
 ├── **OS 🐧** -> NixOS (btw) 
 ├── **Desktop 🖥️** -> Niri (YaLTeR/niri)
 ├── **Editor 📓** -> Nixvim (nix-ified neovim, nix-community/nixvim)
@@ -13,3 +14,4 @@
     ├── C
     ├── lua
     └── GAS x86_64 assembly
+```
