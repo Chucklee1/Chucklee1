@@ -1,6 +1,6 @@
 ## Hi 😃
 <pre>
-├── <textbf>OS<\textbf> 🐧 -> NixOS (btw) 
+├── OS 🐧 -> NixOS (btw) 
 ├── Desktop 🖥️ -> Niri (YaLTeR/niri)
 ├── Editor 📓 -> Nixvim (nix-ified neovim, nix-community/nixvim)
 ├── Dog 🐶 -> A very handsome Boston Terrier
