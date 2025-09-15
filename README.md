@@ -1,17 +1,20 @@
 ## Hi 😃
 <pre>
-├── OS 🐧 -> NixOS (btw) 
+├── OS      🐧 -> NixOS (btw)
 ├── Desktop 🖥️ -> Niri (YaLTeR/niri)
-├── Editor 📓 -> Nixvim (nix-ified neovim, nix-community/nixvim)
-├── Dog 🐶 -> A very handsome Boston Terrier
+├── Editors 📓 -> Nixvim (nix-ified neovim, nix-community/nixvim)
+|           📘 -> Emacs (For notaking, LaTex, & agenda)
+├── Dog     🐶 -> A very handsome Boston Terrier
 |
 ├── Strongsuits 🦾
-│   ├── latex
-│   ├── nix
-│   └── bash scripting
+│   ├── LaTeX
+│   ├── Nix
+|   ├── Python
+│   └── Bash Scripting
 |
 └── Learning ඞ
-    ├── C
-    ├── lua
+    ├── GNU C
+    ├── Lua
+    ├── QT
     └── GAS x86_64 assembly
 </pre>
