@@ -15,6 +15,6 @@
 └── Learning ඞ
     ├── GNU C
     ├── Lua
-    ├── QT
+    ├── QML
     └── GAS x86_64 assembly
 </pre>
