@@ -7,6 +7,7 @@
   - 📘 Emacs (For notaking, LaTex, & agenda)
 - 🐶 Dog: A very handsome Boston Terrier
 
+**coding**
 - Strongsuits 🦾
   - LaTeX
   - Nix
