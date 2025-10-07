@@ -16,4 +16,4 @@
 - C/C++
 - Lua 
 - QML (still learning)
-- GAS x86_64 assembly (still learning)
+- GAS aarch64 assembly (still learning)
