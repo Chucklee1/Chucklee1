@@ -3,9 +3,7 @@
 ### Metadata
 - 🐧 OS: NixOS (btw)
 - 🖥️ Window Manager: Niri (YaLTeR/niri)
-- Editors 
-  - 📓 Nixvim (nix-ified neovim, nix-community/nixvim)
-  - 📘 Emacs (For notaking, LaTex, & agenda)
+-    Secondary OS: Emacs
 - 🐶 Dog: A very handsome Boston Terrier
 
 ### Code Skills
@@ -13,7 +11,6 @@
 - Nix
 - Python
 - Bash Scripting
-- C/C++
-- Lua 
-- QML (still learning)
-- GAS aarch64 assembly (still learning)
+- C/C++ (+Qt6)
+- Lua scripting
+- Rust (learning)
